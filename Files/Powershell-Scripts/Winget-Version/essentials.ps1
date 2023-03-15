@@ -14,6 +14,7 @@ Write-Output "9: TeraCopy"
 Write-Output "10: VoiceMod"
 Write-Output "11: Sound Switcher"
 Write-Output "12: OP Auto Clicker"
+Write-Output "13: Logitech G HUB"
 Write-Output "========Essentials Menu Ends========="
 
 do
@@ -33,6 +34,7 @@ do
         '10' {winget install --id=Voicemod.Voicemod  -e}
         '11' {winget install --id=AntoineAflalo.SoundSwitch  -e}
         '12' {winget install --id=OPAutoClicker.OPAutoClicker  -e}
+        '13' {winget install --id=Logitech.GHUB  -e}
     }
     pause
 }
