@@ -32,7 +32,7 @@
 ::
 ::978f952a14a936cc963da21a135fa983
 @echo off
-Title = "Setup Beta(Private Build)"
+Title = "Setup Maxi Installer"
 
 "C:\Program Files\Python311\python.exe" "Files\Python-Files\config-writer.py"
 echo [CONFIG] Config Successully written!
