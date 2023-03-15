@@ -28,7 +28,7 @@ config_object["SYSTEMINFO"] = {
 config_object["APPINFO"] = {
     "Update_Schedule": "Weekly",
     "Update_Type": "Beta",
-    "Current_Version": "1.1.2",
+    "Current_Version": "1.1.2(V2)",
     "App_By": "@KimDog Studios"
 }
 

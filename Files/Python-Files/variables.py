@@ -1,0 +1,6 @@
+Config = "[CONFIG]"
+Help = "[HELP]"
+Update = "[UPDATE]"
+Alert = "[ALERT]"
+Setup = "[SETUP]"
+Error = "[ERROR]"
