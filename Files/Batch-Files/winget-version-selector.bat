@@ -35,11 +35,11 @@
 Title = "Maxi Installer by @KimDog-Studios"
 CLS
 
-"C:\Program Files\Python311\python.exe" "E:\Users\KimDogStudios\Code\KimDogs-Main-Apps-Installer\KimDogs-Main-Apps-Installer\Versions\2023 Beta Version-PublicBuild\Files\Python-Files\config-writer.py"
+"C:\Program Files\Python311\python.exe" "Files\Python-Files\config-writer.py"
 ECHO [CONFIG: Has been written Sucessfully, the app will not continue to run...]
 ECHO [VERIFY: Hold Tight while we verify the Config.ini file...]
 timeout /t 5 /nobreak
-"C:\Program Files\Python311\python.exe" "E:\Users\KimDogStudios\Code\KimDogs-Main-Apps-Installer\KimDogs-Main-Apps-Installer\Versions\2023 Beta Version-PublicBuild\Files\Python-Files\config-reader.py"
+"C:\Program Files\Python311\python.exe" "Files\Python-Files\config-reader.py"
 ECHO ----------------------------------------------------------
 ECHO RE-OPEN THIS EXE FILE TO GET BACK TO THE SELECTION MENU(TEMPORARY)
 ECHO Please note that not every application is available on Winget!
@@ -67,49 +67,49 @@ IF ERRORLEVEL 2 GOTO GameLaunchers
 IF ERRORLEVEL 1 GOTO Browsers
 
 :Browsers
-PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& {Start-Process PowerShell -ArgumentList '-NoProfile -ExecutionPolicy Bypass -File ""E:\Users\KimDogStudios\Code\KimDogs-Main-Apps-Installer\KimDogs-Main-Apps-Installer\Versions\2023 Beta Version-PublicBuild\Files\Powershell-Scripts\Winget-Version\Internet-Browsers.ps1""' -Verb RunAs}"
+PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& {Start-Process PowerShell -ArgumentList '-NoProfile -ExecutionPolicy Bypass -File ""Files\Powershell-Scripts\Winget-Version\Internet-Browsers.ps1""' -Verb RunAs}"
 ps1'"
 ECHO OPENING Internet Browsers Menu
 Exit
 
 :GameLaunchers
-PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& {Start-Process PowerShell -ArgumentList '-NoProfile -ExecutionPolicy Bypass -File ""E:\Users\KimDogStudios\Code\KimDogs-Main-Apps-Installer\KimDogs-Main-Apps-Installer\Versions\2023 Beta Version-PublicBuild\Files\Powershell-Scripts\Winget-Version\game-launchers.ps1""' -Verb RunAs}"
+PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& {Start-Process PowerShell -ArgumentList '-NoProfile -ExecutionPolicy Bypass -File ""Files\Powershell-Scripts\Winget-Version\game-launchers.ps1""' -Verb RunAs}"
 ps1'"
 ECHO OPENING Game Launchers Menu
 Exit
 
 :Developers
-PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& {Start-Process PowerShell -ArgumentList '-NoProfile -ExecutionPolicy Bypass -File ""E:\Users\KimDogStudios\Code\KimDogs-Main-Apps-Installer\KimDogs-Main-Apps-Installer\Versions\2023 Beta Version-PublicBuild\Files\Powershell-Scripts\Powershell-Scripts\Winget-Version\developers.ps1""' -Verb RunAs}"
+PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& {Start-Process PowerShell -ArgumentList '-NoProfile -ExecutionPolicy Bypass -File ""Files\Powershell-Scripts\Powershell-Scripts\Winget-Version\developers.ps1""' -Verb RunAs}"
 ps1'"
 ECHO OPENING Developers Menu
 Exit
 
 :Essentials
-PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& {Start-Process PowerShell -ArgumentList '-NoProfile -ExecutionPolicy Bypass -File ""E:\Users\KimDogStudios\Code\KimDogs-Main-Apps-Installer\KimDogs-Main-Apps-Installer\Versions\2023 Beta Version-PublicBuild\Files\Powershell-Scripts\Winget-Version\essentials.ps1""' -Verb RunAs}"
+PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& {Start-Process PowerShell -ArgumentList '-NoProfile -ExecutionPolicy Bypass -File ""Files\Powershell-Scripts\Winget-Version\essentials.ps1""' -Verb RunAs}"
 ps1'"
 ECHO OPENING Essentials Menu
 Exit
 
 :Socials
-PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& {Start-Process PowerShell -ArgumentList '-NoProfile -ExecutionPolicy Bypass -File ""E:\Users\KimDogStudios\Code\KimDogs-Main-Apps-Installer\KimDogs-Main-Apps-Installer\Versions\2023 Beta Version-PublicBuild\Files\Powershell-Scripts\Winget-Version\sosials.ps1""' -Verb RunAs}"
+PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& {Start-Process PowerShell -ArgumentList '-NoProfile -ExecutionPolicy Bypass -File ""Files\Powershell-Scripts\Winget-Version\sosials.ps1""' -Verb RunAs}"
 ps1'"
 ECHO OPENING Socials Menu
 Exit
 
 :Entertainment
-PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& {Start-Process PowerShell -ArgumentList '-NoProfile -ExecutionPolicy Bypass -File ""E:\Users\KimDogStudios\Code\KimDogs-Main-Apps-Installer\KimDogs-Main-Apps-Installer\Versions\2023 Beta Version-PublicBuild\Files\Powershell-Scripts\Winget-Version\entertainment.ps1""' -Verb RunAs}"
+PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& {Start-Process PowerShell -ArgumentList '-NoProfile -ExecutionPolicy Bypass -File ""Files\Powershell-Scripts\Winget-Version\entertainment.ps1""' -Verb RunAs}"
 ps1'"
 ECHO OPENING Socials Menu
 Exit
 
 :School
-PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& {Start-Process PowerShell -ArgumentList '-NoProfile -ExecutionPolicy Bypass -File ""E:\Users\KimDogStudios\Code\KimDogs-Main-Apps-Installer\KimDogs-Main-Apps-Installer\Versions\2023 Beta Version-PublicBuild\Files\Powershell-Scripts\Powershell-Scripts\Winget-Version\school.ps1""' -Verb RunAs}"
+PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& {Start-Process PowerShell -ArgumentList '-NoProfile -ExecutionPolicy Bypass -File ""Files\Powershell-Scripts\Powershell-Scripts\Winget-Version\school.ps1""' -Verb RunAs}"
 ps1'"
 ECHO OPENING Socials Menu
 Exit
 
 :Streaming
-PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& {Start-Process PowerShell -ArgumentList '-NoProfile -ExecutionPolicy Bypass -File ""E:\Users\KimDogStudios\Code\KimDogs-Main-Apps-Installer\KimDogs-Main-Apps-Installer\Versions\2023 Beta Version-PublicBuild\Files\Powershell-Scripts\Powershell-Scripts\Winget-Version\streaming.ps1""' -Verb RunAs}"
+PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& {Start-Process PowerShell -ArgumentList '-NoProfile -ExecutionPolicy Bypass -File ""Files\Powershell-Scripts\Powershell-Scripts\Winget-Version\streaming.ps1""' -Verb RunAs}"
 ps1'"
 ECHO OPENING Socials Menu
 Exit

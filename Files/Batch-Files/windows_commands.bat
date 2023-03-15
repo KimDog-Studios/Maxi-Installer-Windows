@@ -37,6 +37,6 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 Exit
 
 :Debloat-Windows
-PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& {Start-Process PowerShell -ArgumentList '-NoProfile -ExecutionPolicy Bypass -File ""E:\Users\KimDogStudios\Code\KimDogs-Main-Apps-Installer\KimDogs-Main-Apps-Installer\Versions\2023 Beta Verison-PrivateBuild\Files\Powershell-Scripts\Windows10-Debloater.ps1""' -Verb RunAs}"
+PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& {Start-Process PowerShell -ArgumentList '-NoProfile -ExecutionPolicy Bypass -File ""Files\Powershell-Scripts\Windows10-Debloater.ps1""' -Verb RunAs}"
 ps1'"
 Exit
