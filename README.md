@@ -5,3 +5,5 @@ To Get Started you will need the following things Below:
 2. Make sure you install everything inside the "Required-Apps" Folder!
 3. Dont mess with anyfiles!!
 4. Updates happen weekly! Or even sooner if there is any major bugs etc.
+
+ <img src="https://i.imgur.com/xhVJFZX.gif" width="480" height="270" />
