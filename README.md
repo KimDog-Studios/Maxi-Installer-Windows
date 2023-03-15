@@ -5,4 +5,5 @@ To Get Started you will need the following things Below:
 2. Make sure you install everything inside the "Required-Apps" Folder!
 3. Dont mess with anyfiles!!
 
-![giphy](https://user-images.githubusercontent.com/116464337/225184607-e67394ba-c407-412b-ab2b-bb2056a74c89.gif)
+
+![giphy (1)](https://user-images.githubusercontent.com/116464337/225184926-609fb4fc-dd69-4d4d-b7e4-fb031ade6806.gif)
