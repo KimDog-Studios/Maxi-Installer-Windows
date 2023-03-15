@@ -9,7 +9,7 @@ To Get Started you will need the following things Below:
 
 4. Updates happen weekly! Or even sooner if there is any major bugs etc.
 
-5. 5. Run this command inside the Application Directory: pip install -r requirements.txt. Then it should download all the Required Python Dependencies that is needed by the Application!
+5. Run this command inside the Application Directory: pip install -r requirements.txt. Then it should download all the Required Python Dependencies that is needed by the Application!
 
 ## Thanks for using Maxi Installer for Windows:
 We appreciate you for using Maxi Installer for Windows and for supporting us to help keep this program running!
