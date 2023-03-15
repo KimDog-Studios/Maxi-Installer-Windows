@@ -32,7 +32,7 @@
 ::
 ::978f952a14a936cc963da21a135fa983
 @echo off
-Title = "Windows Commands"
+Title = "Maxi Installer - Windows Commands"
 CLS
 ECHO [ALERT] Please NOTE this is very early Access to the Final Software!!!
 ECHO --------------------------------------------------------------------------------------------
