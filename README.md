@@ -5,6 +5,7 @@ To Get Started you will need the following things Below:
 2. Make sure you install everything inside the "Required-Apps" Folder!
 3. Dont mess with anyfiles!!
 4. Updates happen weekly! Or even sooner if there is any major bugs etc.
+5. 5. Run this command inside the Application Directory: pip install -r requirements.txt.
 
 ## Thanks for using Maxi Installer for Windows:
 We appreciate you for using Maxi Installer for Windows and for supporting us to help keep this program running!
