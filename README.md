@@ -7,7 +7,7 @@ To Get Started you will need the following things Below:
 4. Updates happen weekly! Or even sooner if there is any major bugs etc.
 
 ## Thanks for using Maxi Installer:
-We aperacite you for supporting us to help keep this program running!
+We appreciate you for using Maxi Installer for Windows and for supporting us to help keep this program running!
 
 Thanks: The KimDog-Studios Team!
  <img src="https://i.imgur.com/xhVJFZX.gif" width="480" height="270" />
