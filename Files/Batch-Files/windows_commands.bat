@@ -34,6 +34,8 @@
 @echo off
 Title = "Maxi Installer - Windows Commands"
 CLS
+"C:\Program Files\Python311\python.exe" "Files\Python-Files\config-reader-windows-commands.py"
+timeout /t 5 /nobreak
 ECHO [ALERT] Please NOTE this is very early Access to the Final Software!!!
 ECHO --------------------------------------------------------------------------------------------
 ECHO [COMMANDS] 1.Shutdown Windows

@@ -13,6 +13,7 @@ Write-Output "8: 7Zip"
 Write-Output "9: TeraCopy"
 Write-Output "10: VoiceMod"
 Write-Output "11: Sound Switcher"
+Write-Output "12: OP Auto Clicker"
 Write-Output "========Essentials Menu Ends========="
 
 do
@@ -31,6 +32,7 @@ do
         '9' {winget install --id=CodeSector.TeraCopy  -e}
         '10' {winget install --id=Voicemod.Voicemod  -e}
         '11' {winget install --id=AntoineAflalo.SoundSwitch  -e}
+        '12' {winget install --id=OPAutoClicker.OPAutoClicker  -e}
     }
     pause
 }

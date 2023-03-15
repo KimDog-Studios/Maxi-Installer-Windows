@@ -12,6 +12,7 @@ Write-Output "7: Everything Search"
 Write-Output "8: Adobe Avrobat Reader (64-bit)"
 Write-Output "9: Adobe DNG Converter"
 Write-Output "10: PDF Creator"
+Write-Output "11: Microsoft OneDrive"
 Write-Output "========School Menu Ends========="
 
 do
@@ -29,6 +30,7 @@ do
         '8' {winget install --id=Adobe.Acrobat.Reader.64-bit  -e}
         '9' {winget install --id=Adobe.DNGConverter  -e}
         '10' {winget install --id=pdfforge.PDFCreator  -e}
+        '11' {winget install --id=Microsoft.OneDrive  -e}
     }
     pause
 }
