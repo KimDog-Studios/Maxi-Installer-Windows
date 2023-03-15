@@ -32,7 +32,7 @@
 ::
 ::978f952a14a936cc963da21a135fa983
 @ECHO OFF
-Title = "Main Application"
+Title = "Maxi Installer by @KimDog-Studios"
 CLS
 
 "C:\Program Files\Python311\python.exe" "E:\Users\KimDogStudios\Code\KimDogs-Main-Apps-Installer\KimDogs-Main-Apps-Installer\Versions\2023 Beta Version-PublicBuild\Files\Python-Files\config-writer.py"
