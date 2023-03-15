@@ -6,4 +6,4 @@ To Get Started you will need the following things Below:
 3. Dont mess with anyfiles!!
 
 
-![giphy (1)](https://user-images.githubusercontent.com/116464337/225184926-609fb4fc-dd69-4d4d-b7e4-fb031ade6806.gif)
+https://user-images.githubusercontent.com/116464337/225184926-609fb4fc-dd69-4d4d-b7e4-fb031ade6806.gif
