@@ -11,8 +11,6 @@ To Get Started you will need the following things Below:
 
 5. Run this command inside the Application Directory: pip install -r requirements.txt. Then it should download all the Required Python Dependencies that is needed by the Application!
 
-6. If you want to run the built in web server then launch the following: "4. Start-Python-Webserver" to start the Server on port "localhost:8000" 
-
 ## Thanks for using Maxi Installer for Windows:
 We appreciate you for using Maxi Installer for Windows and for supporting us to help keep this program running!
 Thanks: The KimDog-Studios Team!
