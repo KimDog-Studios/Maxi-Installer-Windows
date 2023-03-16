@@ -5,6 +5,7 @@ import time
 PORT = 8000
 MESSAGE = "Hello from my Python web server!"
 
+print("Welcome to my Python web server!")
 class MyHandler(http.server.SimpleHTTPRequestHandler):
     def list_directory(self, path):
         # Override to suppress directory listing
