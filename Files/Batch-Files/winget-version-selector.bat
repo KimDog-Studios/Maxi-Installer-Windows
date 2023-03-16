@@ -34,7 +34,6 @@
 @ECHO OFF
 Title = "Maxi Installer by @KimDog-Studios"
 CLS
-
 "C:\Program Files\Python311\python.exe" "Files\Python-Files\config-writer.py"
 ECHO [CONFIG: Has been written Sucessfully, the app will not continue to run...]
 ECHO [VERIFY: Hold Tight while we verify the Config.ini file...]

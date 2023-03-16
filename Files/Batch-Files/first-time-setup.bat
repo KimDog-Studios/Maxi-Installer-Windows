@@ -34,7 +34,6 @@
 @echo off
 Title = "Setup Maxi Installer"
 
-"C:\Program Files\Python311\python.exe" "Files\Python-Files\config-writer.py"
 echo [CONFIG] Config Successully written!
 echo [SETUP]
 echo [SETUP] Please install python in the following directory: "C:\Program Files\Python311"!
